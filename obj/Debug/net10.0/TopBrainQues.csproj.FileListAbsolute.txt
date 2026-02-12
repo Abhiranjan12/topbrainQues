@@ -1,0 +1,14 @@
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\bin\Debug\net10.0\TopBrainQues.exe
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\bin\Debug\net10.0\TopBrainQues.deps.json
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\bin\Debug\net10.0\TopBrainQues.runtimeconfig.json
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\bin\Debug\net10.0\TopBrainQues.dll
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\bin\Debug\net10.0\TopBrainQues.pdb
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\obj\Debug\net10.0\TopBrainQues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\obj\Debug\net10.0\TopBrainQues.AssemblyInfoInputs.cache
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\obj\Debug\net10.0\TopBrainQues.AssemblyInfo.cs
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\obj\Debug\net10.0\TopBrainQues.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\obj\Debug\net10.0\TopBrainQues.dll
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\obj\Debug\net10.0\refint\TopBrainQues.dll
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\obj\Debug\net10.0\TopBrainQues.pdb
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\obj\Debug\net10.0\TopBrainQues.genruntimeconfig.cache
+C:\Users\anjal\OneDrive\Desktop\TopBrainsQues\TopBrainQues\obj\Debug\net10.0\ref\TopBrainQues.dll
