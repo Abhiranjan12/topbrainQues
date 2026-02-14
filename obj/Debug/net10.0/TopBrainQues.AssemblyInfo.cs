@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopBrainQues")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+641d0655b2baf867025e320be181da8c8a4c414c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96e59680d1b41eb550350c995cdf341712320166")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopBrainQues")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopBrainQues")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
